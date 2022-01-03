@@ -1,0 +1,604 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details test Renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="details-header"
+        >
+          <a
+            href="/"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 24 24"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M17.77 3.77L16 2 6 12l10 10 1.77-1.77L9.54 12z"
+              />
+            </svg>
+          </a>
+          <p>
+            state/region details
+          </p>
+        </div>
+        <div
+          class="main-card"
+        >
+          <img
+            alt="Alabama-map"
+            src="https://cdn.civil.services/us-states/maps/alabama-large.png"
+          />
+          <div>
+            <h1>
+              Alabama (AL)
+            </h1>
+            <p>
+              Yellowhammer State
+            </p>
+          </div>
+        </div>
+        <div
+          class="bar"
+        >
+          GENERAL INFORMATION
+        </div>
+        <ul>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              Population
+            </span>
+            <span
+              class="data"
+            >
+              4,833,722
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              Population Rank
+            </span>
+            <span
+              class="data"
+            >
+              23
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              Capital City
+            </span>
+            <span
+              class="data"
+            >
+              Montgomery
+            </span>
+          </li>
+        </ul>
+        <div
+          class="bar"
+        >
+          TODAY'S COVID INFORMATION
+        </div>
+        <ul>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              Confirmed
+            </span>
+            <span
+              class="data"
+            >
+              863,170
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              Deaths
+            </span>
+            <span
+              class="data"
+            >
+              16,402
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              New confirmed
+            </span>
+            <span
+              class="data"
+            >
+              2,060
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              New deaths
+            </span>
+            <span
+              class="data"
+            >
+              22
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              New open cases
+            </span>
+            <span
+              class="data"
+            >
+              2,038
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              New recovered
+            </span>
+            <span
+              class="data"
+            >
+              0
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              New tests
+            </span>
+            <span
+              class="data"
+            >
+              0
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              New total hospitalised patients
+            </span>
+            <span
+              class="data"
+            >
+              0
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              Open cases
+            </span>
+            <span
+              class="data"
+            >
+              551,078
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              Recovered
+            </span>
+            <span
+              class="data"
+            >
+              295,690
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              Tests
+            </span>
+            <span
+              class="data"
+            >
+              0
+            </span>
+          </li>
+          <li
+            class="data-item"
+          >
+            <span
+              class="tag"
+            >
+              Total hospitalised patients
+            </span>
+            <span
+              class="data"
+            >
+              0
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="details-header"
+      >
+        <a
+          href="/"
+        >
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 24 24"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0z"
+              fill="none"
+            />
+            <path
+              d="M17.77 3.77L16 2 6 12l10 10 1.77-1.77L9.54 12z"
+            />
+          </svg>
+        </a>
+        <p>
+          state/region details
+        </p>
+      </div>
+      <div
+        class="main-card"
+      >
+        <img
+          alt="Alabama-map"
+          src="https://cdn.civil.services/us-states/maps/alabama-large.png"
+        />
+        <div>
+          <h1>
+            Alabama (AL)
+          </h1>
+          <p>
+            Yellowhammer State
+          </p>
+        </div>
+      </div>
+      <div
+        class="bar"
+      >
+        GENERAL INFORMATION
+      </div>
+      <ul>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            Population
+          </span>
+          <span
+            class="data"
+          >
+            4,833,722
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            Population Rank
+          </span>
+          <span
+            class="data"
+          >
+            23
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            Capital City
+          </span>
+          <span
+            class="data"
+          >
+            Montgomery
+          </span>
+        </li>
+      </ul>
+      <div
+        class="bar"
+      >
+        TODAY'S COVID INFORMATION
+      </div>
+      <ul>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            Confirmed
+          </span>
+          <span
+            class="data"
+          >
+            863,170
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            Deaths
+          </span>
+          <span
+            class="data"
+          >
+            16,402
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            New confirmed
+          </span>
+          <span
+            class="data"
+          >
+            2,060
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            New deaths
+          </span>
+          <span
+            class="data"
+          >
+            22
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            New open cases
+          </span>
+          <span
+            class="data"
+          >
+            2,038
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            New recovered
+          </span>
+          <span
+            class="data"
+          >
+            0
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            New tests
+          </span>
+          <span
+            class="data"
+          >
+            0
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            New total hospitalised patients
+          </span>
+          <span
+            class="data"
+          >
+            0
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            Open cases
+          </span>
+          <span
+            class="data"
+          >
+            551,078
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            Recovered
+          </span>
+          <span
+            class="data"
+          >
+            295,690
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            Tests
+          </span>
+          <span
+            class="data"
+          >
+            0
+          </span>
+        </li>
+        <li
+          class="data-item"
+        >
+          <span
+            class="tag"
+          >
+            Total hospitalised patients
+          </span>
+          <span
+            class="data"
+          >
+            0
+          </span>
+        </li>
+      </ul>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

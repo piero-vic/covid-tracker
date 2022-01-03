@@ -1,0 +1,17 @@
+{
+  "alabama": {
+    "id": "alabama",
+    "confirmed": 863170,
+    "deaths": 16402,
+    "new_confirmed": 2060,
+    "new_deaths": 22,
+    "new_open_cases": 2038,
+    "new_recovered": 0,
+    "new_tests": 0,
+    "new_total_hospitalised_patients": 0,
+    "open_cases": 551078,
+    "recovered": 295690,
+    "tests": 0,
+    "total_hospitalised_patients": 0
+  }
+}

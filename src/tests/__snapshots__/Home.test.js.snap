@@ -1,0 +1,3936 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home test Renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="home-page"
+      >
+        <div
+          class="header"
+        >
+          all states
+        </div>
+        <div
+          class="main-card"
+        >
+          <img
+            alt="us-map"
+            src="us-map.png"
+          />
+          <div>
+            <h1>
+              United States
+            </h1>
+          </div>
+        </div>
+        <input
+          class="search-bar"
+          placeholder="SEARCH"
+          type="text"
+        />
+        <div
+          class="bar"
+        >
+          STATS BY STATE
+        </div>
+        <ul
+          class="states-list"
+        >
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/alabama"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="alabama-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/alabama-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Alabama
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 4,833,722
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/alaska"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="alaska-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/alaska-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Alaska
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 735,132
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/arizona"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="arizona-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/arizona-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Arizona
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 6,626,624
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/arkansas"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="arkansas-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/arkansas-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Arkansas
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 2,959,373
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/california"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="california-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/california-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                California
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 38,332,521
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/colorado"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="colorado-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/colorado-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Colorado
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 5,268,367
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/connecticut"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="connecticut-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/connecticut-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Connecticut
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 3,596,080
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/delaware"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="delaware-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/delaware-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Delaware
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 925,749
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/florida"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="florida-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/florida-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Florida
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 19,552,860
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/georgia"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="georgia-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/georgia-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Georgia
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 9,992,167
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/hawaii"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="hawaii-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/hawaii-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Hawaii
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 1,404,054
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/idaho"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="idaho-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/idaho-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Idaho
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 1,612,136
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/illinois"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="illinois-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/illinois-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Illinois
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 12,882,135
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/indiana"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="indiana-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/indiana-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Indiana
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 6,570,902
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/iowa"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="iowa-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/iowa-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Iowa
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 3,090,416
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/kansas"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="kansas-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/kansas-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Kansas
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 2,893,957
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/kentucky"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="kentucky-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/kentucky-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Kentucky
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 4,395,295
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/louisiana"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="louisiana-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/louisiana-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Louisiana
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 4,625,470
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/maine"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="maine-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/maine-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Maine
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 1,328,302
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/maryland"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="maryland-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/maryland-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Maryland
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 5,928,814
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/massachusetts"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="massachusetts-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/massachusetts-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Massachusetts
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 6,692,824
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/michigan"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="michigan-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/michigan-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Michigan
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 9,895,622
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/minnesota"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="minnesota-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/minnesota-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Minnesota
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 5,420,380
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/mississippi"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="mississippi-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/mississippi-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Mississippi
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 2,991,207
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/missouri"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="missouri-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/missouri-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Missouri
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 6,044,171
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/montana"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="montana-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/montana-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Montana
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 1,015,165
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/nebraska"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="nebraska-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/nebraska-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Nebraska
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 1,868,516
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/nevada"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="nevada-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/nevada-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Nevada
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 2,790,136
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/new-hampshire"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="new-hampshire-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/new-hampshire-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                New Hampshire
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 1,323,459
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/new-jersey"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="new-jersey-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/new-jersey-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                New Jersey
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 8,899,339
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/new-mexico"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="new-mexico-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/new-mexico-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                New Mexico
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 2,085,287
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/new-york"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="new-york-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/new-york-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                New York
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 19,651,127
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/north-carolina"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="north-carolina-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/north-carolina-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                North Carolina
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 9,848,060
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/north-dakota"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="north-dakota-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/north-dakota-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                North Dakota
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 723,393
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/ohio"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="ohio-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/ohio-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Ohio
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 11,570,808
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/oklahoma"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="oklahoma-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/oklahoma-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Oklahoma
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 3,850,568
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/oregon"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="oregon-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/oregon-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Oregon
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 3,930,065
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/pennsylvania"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="pennsylvania-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/pennsylvania-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Pennsylvania
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 12,773,801
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/rhode-island"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="rhode-island-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/rhode-island-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Rhode Island
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 1,051,511
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/south-carolina"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="south-carolina-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/south-carolina-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                South Carolina
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 4,774,839
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/south-dakota"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="south-dakota-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/south-dakota-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                South Dakota
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 844,877
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/tennessee"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="tennessee-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/tennessee-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Tennessee
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 6,495,978
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/texas"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="texas-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/texas-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Texas
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 26,448,193
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/utah"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="utah-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/utah-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Utah
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 2,900,872
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/vermont"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="vermont-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/vermont-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Vermont
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 626,630
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/virginia"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="virginia-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/virginia-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Virginia
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 8,260,405
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/washington"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="washington-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/washington-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Washington
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 6,971,406
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/west-virginia"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="west-virginia-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/west-virginia-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                West Virginia
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 1,854,304
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-1"
+          >
+            <a
+              class="state-link"
+              href="/wisconsin"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="wisconsin-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/wisconsin-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Wisconsin
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 5,742,713
+              </p>
+            </a>
+          </li>
+          <li
+            class="list-item bg-2"
+          >
+            <a
+              class="state-link"
+              href="/wyoming"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <img
+                alt="wyoming-map"
+                class="state-map"
+                src="https://cdn.civil.services/us-states/maps/wyoming-large.png"
+              />
+              <p
+                class="state-name"
+              >
+                Wyoming
+              </p>
+              <p
+                class="state-today-confirmed"
+              >
+                Population: 582,658
+              </p>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="home-page"
+    >
+      <div
+        class="header"
+      >
+        all states
+      </div>
+      <div
+        class="main-card"
+      >
+        <img
+          alt="us-map"
+          src="us-map.png"
+        />
+        <div>
+          <h1>
+            United States
+          </h1>
+        </div>
+      </div>
+      <input
+        class="search-bar"
+        placeholder="SEARCH"
+        type="text"
+      />
+      <div
+        class="bar"
+      >
+        STATS BY STATE
+      </div>
+      <ul
+        class="states-list"
+      >
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/alabama"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="alabama-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/alabama-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Alabama
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 4,833,722
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/alaska"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="alaska-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/alaska-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Alaska
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 735,132
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/arizona"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="arizona-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/arizona-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Arizona
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 6,626,624
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/arkansas"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="arkansas-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/arkansas-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Arkansas
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 2,959,373
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/california"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="california-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/california-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              California
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 38,332,521
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/colorado"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="colorado-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/colorado-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Colorado
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 5,268,367
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/connecticut"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="connecticut-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/connecticut-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Connecticut
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 3,596,080
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/delaware"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="delaware-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/delaware-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Delaware
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 925,749
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/florida"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="florida-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/florida-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Florida
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 19,552,860
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/georgia"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="georgia-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/georgia-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Georgia
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 9,992,167
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/hawaii"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="hawaii-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/hawaii-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Hawaii
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 1,404,054
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/idaho"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="idaho-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/idaho-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Idaho
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 1,612,136
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/illinois"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="illinois-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/illinois-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Illinois
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 12,882,135
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/indiana"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="indiana-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/indiana-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Indiana
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 6,570,902
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/iowa"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="iowa-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/iowa-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Iowa
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 3,090,416
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/kansas"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="kansas-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/kansas-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Kansas
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 2,893,957
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/kentucky"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="kentucky-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/kentucky-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Kentucky
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 4,395,295
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/louisiana"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="louisiana-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/louisiana-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Louisiana
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 4,625,470
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/maine"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="maine-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/maine-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Maine
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 1,328,302
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/maryland"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="maryland-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/maryland-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Maryland
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 5,928,814
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/massachusetts"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="massachusetts-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/massachusetts-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Massachusetts
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 6,692,824
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/michigan"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="michigan-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/michigan-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Michigan
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 9,895,622
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/minnesota"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="minnesota-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/minnesota-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Minnesota
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 5,420,380
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/mississippi"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="mississippi-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/mississippi-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Mississippi
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 2,991,207
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/missouri"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="missouri-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/missouri-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Missouri
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 6,044,171
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/montana"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="montana-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/montana-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Montana
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 1,015,165
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/nebraska"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="nebraska-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/nebraska-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Nebraska
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 1,868,516
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/nevada"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="nevada-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/nevada-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Nevada
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 2,790,136
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/new-hampshire"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="new-hampshire-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/new-hampshire-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              New Hampshire
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 1,323,459
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/new-jersey"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="new-jersey-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/new-jersey-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              New Jersey
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 8,899,339
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/new-mexico"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="new-mexico-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/new-mexico-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              New Mexico
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 2,085,287
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/new-york"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="new-york-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/new-york-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              New York
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 19,651,127
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/north-carolina"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="north-carolina-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/north-carolina-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              North Carolina
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 9,848,060
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/north-dakota"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="north-dakota-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/north-dakota-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              North Dakota
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 723,393
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/ohio"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="ohio-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/ohio-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Ohio
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 11,570,808
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/oklahoma"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="oklahoma-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/oklahoma-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Oklahoma
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 3,850,568
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/oregon"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="oregon-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/oregon-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Oregon
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 3,930,065
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/pennsylvania"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="pennsylvania-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/pennsylvania-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Pennsylvania
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 12,773,801
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/rhode-island"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="rhode-island-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/rhode-island-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Rhode Island
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 1,051,511
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/south-carolina"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="south-carolina-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/south-carolina-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              South Carolina
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 4,774,839
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/south-dakota"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="south-dakota-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/south-dakota-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              South Dakota
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 844,877
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/tennessee"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="tennessee-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/tennessee-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Tennessee
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 6,495,978
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/texas"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="texas-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/texas-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Texas
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 26,448,193
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/utah"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="utah-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/utah-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Utah
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 2,900,872
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/vermont"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="vermont-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/vermont-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Vermont
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 626,630
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/virginia"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="virginia-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/virginia-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Virginia
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 8,260,405
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/washington"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="washington-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/washington-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Washington
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 6,971,406
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/west-virginia"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="west-virginia-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/west-virginia-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              West Virginia
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 1,854,304
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-1"
+        >
+          <a
+            class="state-link"
+            href="/wisconsin"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="wisconsin-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/wisconsin-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Wisconsin
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 5,742,713
+            </p>
+          </a>
+        </li>
+        <li
+          class="list-item bg-2"
+        >
+          <a
+            class="state-link"
+            href="/wyoming"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+            <img
+              alt="wyoming-map"
+              class="state-map"
+              src="https://cdn.civil.services/us-states/maps/wyoming-large.png"
+            />
+            <p
+              class="state-name"
+            >
+              Wyoming
+            </p>
+            <p
+              class="state-today-confirmed"
+            >
+              Population: 582,658
+            </p>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
