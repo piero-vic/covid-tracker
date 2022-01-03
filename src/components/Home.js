@@ -51,9 +51,7 @@ const Home = () => {
                 />
                 <p className="state-name">{item.state}</p>
                 <p className="state-today-confirmed">
-                  {`Population: ${item.population.toLocaleString(
-                    'en-US',
-                  )}`}
+                  {`Population: ${item.population.toLocaleString('en-US')}`}
                 </p>
               </Link>
             </li>
