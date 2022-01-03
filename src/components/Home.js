@@ -4,6 +4,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { BsArrowRightCircle } from 'react-icons/bs';
 import { fetchAllData } from '../redux/data/data';
 import USMap from '../us-map.png';
+import './Home.scss';
 
 const Home = () => {
   const states = useSelector((state) => state.data);
@@ -49,7 +50,11 @@ const Home = () => {
                   alt={`${item.slug}-map`}
                 />
                 <p className="state-name">{item.state}</p>
-                <p className="state-today-confirmed">{`Population: ${item.population}`}</p>
+                <p className="state-today-confirmed">
+                  {`Population: ${item.population.toLocaleString(
+                    'en-US',
+                  )}`}
+                </p>
               </Link>
             </li>
           ))}
