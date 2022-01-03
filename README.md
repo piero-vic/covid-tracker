@@ -2,6 +2,9 @@
 
 # US Covid Tracker
 
+![screenshot-2](./app_screenshot_1.png)
+![screenshot-1](./app_screenshot_2.png)
+
 Application that displays information about covid cases across the US.
 
 ## Built With
@@ -59,6 +62,14 @@ Run all this with npm.
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+
+## Author
+
+👤 **Piero Lescano**
+
+- GitHub: [@piero-vic](https://github.com/piero-vic)
+- Twitter: [@v1ccenzo](https://twitter.com/v1ccenzo)
+- LinkedIn: [piero-lescano](https://linkedin.com/in/piero-lescano)
 
 ## Show your support
 
