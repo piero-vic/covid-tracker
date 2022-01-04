@@ -1,0 +1,32 @@
+.details-header {
+  background-color: #4269b3;
+  display: flex;
+  align-items: center;
+  padding: 0.6rem 0.4rem;
+
+  p {
+    margin: 0 auto;
+  }
+}
+
+.main-card {
+  p {
+    font-size: 12px;
+  }
+}
+
+.data-item {
+  background-color: #4269b3;
+  font-size: 12px;
+  padding: 0.4rem;
+  display: flex;
+  justify-content: space-between;
+
+  .data {
+    font-weight: bold;
+  }
+}
+
+img {
+  max-width: 100%;
+}
